@@ -12,8 +12,7 @@ pages = int(input("Enter the number of pages: "))
 print_output = input("Do you want to print products details to console? (yes/no): ")
 
 
-# data lists
-
+# data listsgit
 product_names = []
 prices = []
 old_prices = []
